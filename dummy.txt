@@ -1,2 +1,6 @@
-updated to a new state
+<<<<<<< HEAD
+blah bal
+abafdbjkaldjfga
 
+=======
+>>>>>>> parent of 27c5ab9... add text
