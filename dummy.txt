@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-blah bal
-abafdbjkaldjfga
+updated to a new state
 
-=======
->>>>>>> parent of 27c5ab9... add text
