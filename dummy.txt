@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-blah bal
+al
 abafdbjkaldjfga
 
-=======
->>>>>>> parent of 27c5ab9... add text
